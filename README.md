@@ -9,7 +9,19 @@
 <p>Building software systems, web applications, and AI-powered solutions that solve practical problems.</p>
 <p><strong>● Focused on system development, applied AI, and turning ideas into working software</strong></p>
 <p><sub>Based in Malaysia · Open to software development and AI engineering opportunities</sub></p>
-<p><a href="https://github.com/amndazhar">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/aryssaamanda">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:aryssaamanda@gmail.com">Email</a></p>
+<p>
+  <a href="https://github.com/amndazhar">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/aryssaamanda">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:aryssaamanda@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email" />
+  </a>
+</p>
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://github.com/amndazhar.png" width="180" alt="Aryssa Amanda GitHub avatar" />
