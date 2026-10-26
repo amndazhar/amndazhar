@@ -1,31 +1,20 @@
- <div align="center">
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>SOFTWARE DEVELOPMENT · AI ENGINEERING</sub></p>
-<h1>Aryssa Amanda</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
+
 <h2>Software Developer · AI Engineer</h2>
 <p>Building software systems, web applications, and AI-powered solutions that solve practical problems.</p>
 <p><strong>● Focused on system development, applied AI, and turning ideas into working software</strong></p>
 <p><sub>Based in Malaysia · Open to software development and AI engineering opportunities</sub></p>
-<p align="center">
+<p>
   <a href="https://github.com/amndazhar?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
-  <a href="https://linkedin.com/in/aryssaamanda">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aryssaamanda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://github.com/amndazhar.png" width="180" alt="Aryssa Amanda GitHub avatar" />
-</td>
-</tr>
-</table>
 </div>
 
 <h2>What teams can evaluate quickly</h2>
@@ -131,4 +120,4 @@
   </tr>
 </table>
 
-<p align="center"><sub>Aryssa Amanda · Software Developer & AI Engineer · Profile styled with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Aryssa Amanda · Software Developer & AI Engineer · Header by <a href="https://gitascii.com">GitAscii</a> · Sections by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
