@@ -8,11 +8,14 @@
         "y": 0
       },
       "size": {
-        "width": 704,
+        "width": 800,
         "height": 240
       },
       "config": {
-        "accentColor": "#00ffff"
+        "accentColor": "#39c5cf",
+        "borderColor": "#30363d",
+        "backgroundColor": "#0d1117",
+        "staticMode": true
       },
       "locked": false,
       "visible": true,
@@ -21,10 +24,10 @@
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
-    "textColor": "#e5e5e5",
-    "accentColor": "#c5ff4a",
-    "borderColor": "#252525",
+    "backgroundColor": "#0d1117",
+    "textColor": "#e6edf3",
+    "accentColor": "#3fb950",
+    "borderColor": "#30363d",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
     "padding": 24,
@@ -35,7 +38,6 @@
   "username": "amndazhar",
   "profileSlug": "heatmap",
   "metadata": {
-    "revision": "rev_heatmap_1",
-    "updatedAt": "2026-10-26T03:24:55.762615+00:00"
+    "revision": "rev_redesign_1"
   }
 }
