@@ -22,7 +22,7 @@
       "name": "Ascii-art Widget",
       "position": {
         "x": 0,
-        "y": 106
+        "y": 179
       },
       "size": {
         "width": 280,
@@ -11524,42 +11524,54 @@
       "instanceId": "widget_1792982787161_1"
     },
     {
-      "widgetId": "terminal-info",
-      "name": "Terminal-info Widget",
+      "instanceId": "widget_1792984053419",
+      "widgetId": "premium-ascii-profile-card",
+      "name": "Premium-ascii-profile-card Widget",
       "position": {
         "x": 296,
         "y": 106
       },
       "size": {
         "width": 504,
-        "height": 280
+        "height": 426
       },
       "config": {
-        "headerColor": "#00ff88",
-        "labelColor": "#55ffff",
-        "dotColor": "#2e4c38",
-        "valueColor": "#e6edf3",
-        "statsValColor": "#00ff88",
-        "dividerColor": "#1a2e22",
-        "showCompany": false,
-        "showAchievements": false,
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d",
+        "customName": "",
+        "customRoles": "Software Developer, AI Engineer",
+        "customLocation": "Malaysia",
+        "customWebsite": "-",
         "showWebsite": false,
-        "showEmail": true,
-        "animationType": "typewriter",
-        "animationPreviewKey": 1,
-        "lockAspectRatio": false
+        "hideMetrics": [
+          "followers"
+        ],
+        "maxRepos": 4,
+        "hideLangsArr": [
+          "Ruby",
+          "Kotlin",
+          "Swift",
+          "C#",
+          "Go",
+          "Rust"
+        ],
+        "hideLangs": "Ruby,Kotlin,Swift,C#,Go,Rust",
+        "animated": true
       },
       "locked": false,
       "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1792982787161_2"
+      "zIndex": 3
     },
     {
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
         "x": 0,
-        "y": 506
+        "y": 652
       },
       "size": {
         "width": 800,
@@ -11590,7 +11602,7 @@
       "name": "Social-media Widget",
       "position": {
         "x": 0,
-        "y": 402
+        "y": 548
       },
       "size": {
         "width": 800,
@@ -11631,7 +11643,7 @@
   "username": "amndazhar",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_initial",
-    "updatedAt": "2026-10-26T03:02:36.352931+00:00"
+    "revision": "rev_profile_card",
+    "updatedAt": "2026-10-26T03:20:21.621606+00:00"
   }
 }
