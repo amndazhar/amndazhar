@@ -91,8 +91,9 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-heatmap-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-heatmap-2&mode=dark" width="100%" alt="Aryssa Amanda GitHub contribution activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/heatmap/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/heatmap/light.svg" />
+  <img src="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/heatmap/dark.svg" width="100%" alt="Aryssa Amanda GitHub contribution activity" />
 </picture>
 </p>
 
