@@ -89,8 +89,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-heatmap-1&mode=dark" width="100%" alt="Aryssa Amanda GitHub contribution activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-heatmap-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-heatmap-2&mode=dark" width="100%" alt="Aryssa Amanda GitHub contribution activity" />
 </picture>
 </p>
 
