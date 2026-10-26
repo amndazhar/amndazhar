@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · MALAYSIA</sub></p>
+<p><sub>SOFTWARE DEVELOPMENT · AI ENGINEERING</sub></p>
 <h1>Aryssa Amanda</h1>
 <h2>Software Developer · AI Engineer</h2>
 <p>Building software systems, web applications, and AI-powered solutions that solve practical problems.</p>
