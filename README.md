@@ -1,23 +1,17 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/default/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/default/light.svg">
-  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/default/dark.svg" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/default/dark.svg" width="100%" alt="Aryssa Amanda, Software Developer and AI Engineer" />
 
 <h2>Software Developer · AI Engineer</h2>
 <p>Building software systems, web applications, and AI-powered solutions that solve practical problems.</p>
 <p><strong>● Focused on system development, applied AI, and turning ideas into working software</strong></p>
 <p><sub>Based in Malaysia · Open to software development and AI engineering opportunities</sub></p>
 <p>
-  <a href="https://github.com/amndazhar?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" />
-  </a>
+  <a href="https://github.com/amndazhar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 </p>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<h2><code>01</code> What teams can evaluate quickly</h2>
 
 <table width="100%">
 <tr>
@@ -29,49 +23,53 @@
 
 <p><sub>From frontend implementation to AI integration, focused on building useful systems and practical product features.</sub></p>
 
-<h2>Proof at a glance</h2>
+<h2><code>02</code> Proof at a glance</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-stats-1&mode=dark" width="100%" alt="Aryssa Amanda GitHub statistics" />
-</picture>
+  <img src="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/heatmap/dark.svg" width="100%" alt="Aryssa Amanda GitHub contribution activity" />
 </p>
 
-<h2>Selected work</h2>
+<p align="center"><sub>Consistency signal · contribution activity across public and private work, refreshed daily</sub></p>
+
+<h2><code>03</code> Selected work</h2>
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-projects-1&mode=dark" width="100%" alt="Aryssa Amanda selected GitHub projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 <h3>AI-Powered Legal Research</h3>
 <p>A retrieval-augmented generation assistant for Malaysian legal content, combining document extraction, vector search, and language models to support legal information retrieval.</p>
-<p><sub>Python · RAG · Qwen · Ollama · Milvus · BeautifulSoup</sub></p>
-<p><a href="https://github.com/amndazhar?tab=repositories">Explore repositories →</a></p>
+<p><code>Python</code> <code>RAG</code> <code>Qwen</code> <code>Ollama</code> <code>Milvus</code> <code>BeautifulSoup</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>AI Log Digitizer</h3>
+<p>Extracting structured LAS data from scanned log images, with quality-control steps to help validate the resulting datasets.</p>
+<p><code>Document Processing</code> <code>Image Processing</code> <code>Data Extraction</code></p>
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>AI Log Digitizer</h3><p>Extracting structured LAS data from scanned log images, with quality-control steps to help validate the resulting datasets.</p><p><sub>Document Processing · Image Processing · Data Extraction</sub></p></td>
-<td width="33%" valign="top"><h3>Vehicle Logo Detection</h3><p>Developed a computer vision workflow to detect vehicle logos across 10 Malaysian automotive brands.</p><p><sub>Python · YOLOv7 · OpenCV · CLAHE</sub></p></td>
-<td width="33%" valign="top"><h3>Enterprise Web Platforms</h3><p>Contributed to web-based systems for telecom tower management, healthcare accreditation, and oil and gas workflows.</p><p><sub>React · JavaScript · REST APIs · Database Integration</sub></p></td>
+<td width="50%" valign="top">
+<h3>Vehicle Logo Detection</h3>
+<p>Developed a computer vision workflow to detect vehicle logos across 10 Malaysian automotive brands.</p>
+<p><code>Python</code> <code>YOLOv7</code> <code>OpenCV</code> <code>CLAHE</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>Enterprise Web Platforms</h3>
+<p>Contributed to web-based systems for telecom tower management, healthcare accreditation, and oil and gas workflows.</p>
+<p><code>React</code> <code>JavaScript</code> <code>REST APIs</code> <code>Database Integration</code></p>
+</td>
 </tr>
 </table>
 
 <p align="center"><a href="https://github.com/amndazhar?tab=repositories">Explore more projects on GitHub →</a></p>
 
-<h2>Technical toolkit</h2>
+<h2><code>04</code> Technical toolkit</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github&perline=5" alt="Python, JavaScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Git and GitHub" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github&perline=10&theme=light" />
+      <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github&perline=10&theme=dark" alt="Python, JavaScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Git and GitHub" />
+    </picture>
   </a>
 </p>
 
@@ -81,44 +79,25 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Frontend</h3><p>React · Next.js · JavaScript · HTML · CSS</p></td>
-<td width="33%" valign="top"><h3>Backend & Data</h3><p>Node.js · Express.js · Python · REST APIs · MongoDB · MySQL</p></td>
-<td width="33%" valign="top"><h3>AI & Machine Learning</h3><p>LLMs · RAG · NLP · Computer Vision · OpenCV · YOLOv7</p></td>
+<td width="33%" valign="top"><h3>Frontend</h3><p><code>React</code> <code>Next.js</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p></td>
+<td width="33%" valign="top"><h3>Backend & Data</h3><p><code>Node.js</code> <code>Express.js</code> <code>Python</code> <code>REST APIs</code> <code>MongoDB</code> <code>MySQL</code></p></td>
+<td width="33%" valign="top"><h3>AI & Machine Learning</h3><p><code>LLMs</code> <code>RAG</code> <code>NLP</code> <code>Computer Vision</code> <code>OpenCV</code> <code>YOLOv7</code></p></td>
 </tr>
 </table>
 
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/heatmap/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/heatmap/light.svg" />
-  <img src="https://raw.githubusercontent.com/amndazhar/amndazhar/gitascii/profiles/heatmap/dark.svg" width="100%" alt="Aryssa Amanda GitHub contribution activity" />
-</picture>
-</p>
-
-<hr />
+<h2><code>05</code> Let's build something useful</h2>
 
 <table width="100%">
   <tr>
     <td width="62%" valign="middle">
-      <h2>Let's build something useful</h2>
       <p>Interested in software engineering, AI-powered products, and opportunities to build practical systems with thoughtful engineering.</p>
     </td>
     <td width="38%" valign="middle" align="right">
-      <a href="https://github.com/amndazhar">
-        <img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" alt="GitHub" />
-      </a>
-      <br />
-      <a href="https://linkedin.com/in/aryssaamanda">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" />
-      </a>
-      <br />
-      <a href="mailto:aryssaamanda@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email" />
-      </a>
+      <a href="https://github.com/amndazhar"><img src="https://img.shields.io/badge/GitHub-amndazhar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><br />
+      <a href="https://linkedin.com/in/aryssaamanda"><img src="https://img.shields.io/badge/LinkedIn-aryssaamanda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br />
+      <a href="mailto:aryssaamanda@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>Aryssa Amanda · Software Developer & AI Engineer · Header by <a href="https://gitascii.com">GitAscii</a> · Sections by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Aryssa Amanda · Software Developer & AI Engineer · Visuals rendered with <a href="https://gitascii.com">GitAscii</a> and refreshed daily</sub></p>

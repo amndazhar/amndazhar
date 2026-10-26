@@ -26,3 +26,20 @@ jobs:
         uses: Igorcbraz/GitAscii/action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      # The heatmap cells fade in one by one over ~16s and the widget's staticMode
+      # setting is ignored by the engine, so strip the animation to show the grid at once.
+      - name: Checkout published SVGs
+        uses: actions/checkout@v4
+        with:
+          ref: gitascii
+
+      - name: Disable heatmap fade-in
+        run: |
+          sed -i -E 's/(\.c-[A-Za-z0-9_]+ \{) opacity: 0; animation: [^}]*\}/\1 opacity: 1; }/' profiles/heatmap/*.svg
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "Disable GitAscii heatmap fade-in [skip ci]"
+            git push
+          fi
