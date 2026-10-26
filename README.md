@@ -9,17 +9,15 @@
 <p>Building software systems, web applications, and AI-powered solutions that solve practical problems.</p>
 <p><strong>● Focused on system development, applied AI, and turning ideas into working software</strong></p>
 <p><sub>Based in Malaysia · Open to software development and AI engineering opportunities</sub></p>
-<p>
-  <a href="https://github.com/amndazhar">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" alt="GitHub" />
+<p align="center">
+  <a href="https://github.com/amndazhar?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/aryssaamanda">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:aryssaamanda@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 </td>
@@ -83,10 +81,13 @@
 <h2>Technical toolkit</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=amndazhar&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Famndazhar.png&v=amanda-stack-1&mode=dark" width="100%" alt="Aryssa Amanda technology stack" />
-</picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,express,mongodb,mysql,git,github&perline=5" alt="Python, JavaScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Git and GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Frontend development · Backend systems · Database integration · Applied AI</sub>
 </p>
 
 <table width="100%">
