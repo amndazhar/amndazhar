@@ -109,10 +109,25 @@
 <hr />
 
 <table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let's build something useful</h2><p>Interested in software engineering, AI-powered products, and opportunities to build practical systems with thoughtful engineering.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/amndazhar">GitHub</a><br /><a href="https://linkedin.com/in/aryssaamanda">LinkedIn</a><br /><a href="mailto:aryssaamanda@gmail.com">Email me</a></td>
-</tr>
+  <tr>
+    <td width="62%" valign="middle">
+      <h2>Let's build something useful</h2>
+      <p>Interested in software engineering, AI-powered products, and opportunities to build practical systems with thoughtful engineering.</p>
+    </td>
+    <td width="38%" valign="middle" align="right">
+      <a href="https://github.com/amndazhar">
+        <img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" alt="GitHub" />
+      </a>
+      <br />
+      <a href="https://linkedin.com/in/aryssaamanda">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" />
+      </a>
+      <br />
+      <a href="mailto:aryssaamanda@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Email" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <p align="center"><sub>Aryssa Amanda · Software Developer & AI Engineer · Profile styled with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
