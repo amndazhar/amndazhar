@@ -39,7 +39,7 @@
       
       
       <svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-<style>@keyframes cell-widget_1792983943330_2 {  0%   { opacity: 0; transform: translateY(-6px); }  100% { opacity: 1; transform: translateY(0); }}.c-widget_1792983943330_2 { opacity: 0; animation: cell-widget_1792983943330_2 0.42s cubic-bezier(.2,.8,.2,1) both; }</style>
+<style>@keyframes cell-widget_1792983943330_2 {  0%   { opacity: 0; transform: translateY(-6px); }  100% { opacity: 1; transform: translateY(0); }}.c-widget_1792983943330_2 { opacity: 1; }</style>
 <defs><linearGradient id="heatmap-bg-widget_1792983943330_2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1420"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
 <rect width="800" height="240" rx="12" fill="url(#heatmap-bg-widget_1792983943330_2)"/>
 <rect x="0.5" y="0.5" width="799" height="239" rx="12" fill="none" stroke="#30363d" stroke-width="1" stroke-opacity="0.55"/>
